@@ -1,0 +1,74 @@
+body {
+	font-family: 'Quantico', sans-serif;
+}
+
+header {
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+	margin: 20px;
+}
+
+nav > h3:hover {
+	background-color: #006D4E
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	padding-right: 40px;
+}
+
+li {
+	list-style-type: none;
+}
+
+hr {
+	margin: 10px;
+}
+
+footer {
+	text-align: center;
+}
+
+.guide {
+	display: inline;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	padding: 10px;
+	margin-left: -5px;
+}
+
+.pizza {
+	border: 3px solid lightgray;
+	margin-top: -3px;
+}
+
+.pizza:hover {
+	background-color: #006D4E
+}
+
+#name {
+	color: turquoise;
+	font-size: 30pt;
+}
+
+#today {
+	text-align: center;
+}
+
+#menu {
+	text-align: center;
+}
+
+#subscribe {
+	text-align: center;
+}
+
+#visit {
+	text-align: center;
+}
